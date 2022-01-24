@@ -2,6 +2,8 @@
 <div align="center">
   
   [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=kimkh05)](https://github.com/anuraghazra/github-readme-stats)
+  
+  [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=kimkh05)](https://solved.ac/kimkh05)
 
   
 </div>
