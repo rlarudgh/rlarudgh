@@ -4,8 +4,6 @@
 <p>✨ 소통을 통해 최선의 선택을 노력하는 개발자입니다!</p>
 
 <br />
-<p><a href="https://deciduous-blizzard-099.notion.site/44209b104dcd429ea82b5532253cae9c">🌱 Notion 포트폴리오 사이트</a></p>
-<p><a href="https://kimkkh05-portfolio.vercel.app/">⚙️ Web 포트폴리오 사이트</a></p>
 
 <br />
 
