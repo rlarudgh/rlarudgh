@@ -5,6 +5,9 @@
 
 <br />
 
+<img width=300 src="https://github-readme-stats.vercel.app/api/top-langs/?username=kimkh05&layout=donut" />
+<br />
+
 <h3>🔧 Stack</h3>
 <div>
   <img src="https://img.shields.io/badge/html5-E34F26?style=flat&logo=html5&logoColor=white" /> 
