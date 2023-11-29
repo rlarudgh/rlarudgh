@@ -6,6 +6,8 @@
 
 <br />
 
+<a href="https://deciduous-blizzard-099.notion.site/44209b104dcd429ea82b5532253cae9c">포트폴리오 바로가기</a>
+
 <img width=300 src="https://github-readme-stats.vercel.app/api/top-langs/?username=kimkh05&layout=donut" />
 <br />
 
