@@ -6,7 +6,7 @@ Develop Webview, Web, and App(RN).
 <br />
 React, Nextjs, Vue, Typescript, JavaScript
 <br />
-React-Native, Kotlin, Python, Java, Cpp, C, Nestjs, Flutter, etc.
+React-Native, Kotlin, Python, Java, Flutter, etc.
 
 
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=rlarudgh&utm_content=farm">
