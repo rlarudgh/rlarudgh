@@ -1,6 +1,8 @@
-**Frontend Developer**
+**App & Frontend Developer**
 
-Develop Webview, Web, and App(RN).
+Develop WebView, Web, and App(RN, Flutter).
+
+<hr/>
 
 **Skills**
 <br />
