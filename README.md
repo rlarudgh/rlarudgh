@@ -6,9 +6,9 @@ I'm working App(Cross-platform) and frontend(Web, WebView) develop.
 
 ### 💼 Career
 
-- **[옐로시스 주식회사]** (2023.07.24 ~ Present)
-  - App & WebView + Web 파트를 맡아 업무하고 있습니다.
-  - Vue2로 WebView를 유지보수하였고, 홈페이지를 마이그레이션하여 SEO 최적화를 진행하였습니다.
+- **[옐로시스 주식회사]** (2023.07.24 ~ )
+  - Developing App & WebView + Web part.
+  - WebView was maintained with Vue2, and SEO optimization was carried out by migrating the homepage.
 
 ---
 
@@ -18,7 +18,9 @@ I'm working App(Cross-platform) and frontend(Web, WebView) develop.
 
 - **App**: React-Native, Flutter, Kotlin
 
-- **Server**: Nest.js, express, node.js
+- **Server**: Nest.js, express, node.js, Prisma
+
+- **Etc.**: Python, Cpp, MySQL
 
 ---
 
