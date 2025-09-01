@@ -7,8 +7,7 @@ I'm working App(Cross-platform) and frontend(Web, WebView) develop.
 ### 🎓 Education
 
 - **[대덕소프트웨어마이스터고등학교]** (2021.03 ~ 2024.01)
-  - 소프트웨어개발과
-    - 전공 동아리 "UP" 운영 경험
+  - 소프트웨어개발과 졸업
  
 - **[서울사이버대학교]** (2024.03 ~ )
   - 컴퓨터공학과 전공
