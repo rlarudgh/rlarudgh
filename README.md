@@ -24,7 +24,7 @@ I'm working App(Cross-platform) and frontend(Web, WebView) develop.
 
 ### 💻 Skills
 
-- **Web**: Next.js, React, Vue, TS, JS
+- **Web(WebView)**: Next.js, React, Vue, TS, JS
 
 - **App**: React-Native, Flutter, Kotlin
 
