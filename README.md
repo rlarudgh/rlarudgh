@@ -1,9 +1,10 @@
 ### Hello 👋  My name is Kyeong-Ho Kim.
 
-I'm working App(Cross-platform) and frontend(Web, WebView) develop.
+프론트엔드와 크로스 플랫폼 개발하는 김경호입니다.
 
----
-### 💼 Career
+사용자의 편의성을 우선적으로 생각합니다.
+
+## 💼 Career
 
 **옐로시스 주식회사** 
 <br/>
@@ -15,21 +16,21 @@ I'm working App(Cross-platform) and frontend(Web, WebView) develop.
 - 옐로시스 [홈페이지](https://yellosis.com) 개발
 - 데이터 관리를 위한 backoffice 개발
 
----
-### 🎓 Education
+
+## 🎓 Education
 
 **대덕소프트웨어마이스터고등학교** 
 <br/>
-*소프트웨어개발과 졸업* (2021.03 ~ 2024.01)
+소프트웨어개발과 졸업 (2021.03 ~ 2024.01)
 
- 
+<br/>
+
 **서울사이버대학교** 
 <br/>
-*컴퓨터공학과 전공 - 재학중* (2024.03 ~ ing)
+컴퓨터공학과 전공 (2024.03 ~ 재학 중)
 
----
 
-### 💻 Skills
+## 💻 Skills
 
 - **Web(WebView)**: Next.js, React, Vue, TS, JS
 
@@ -39,15 +40,13 @@ I'm working App(Cross-platform) and frontend(Web, WebView) develop.
 
 - **Etc.**: Python, Cpp, MySQL
 
----
 
-### 🎨 My Blog
+## 🎨 My Blog
 
-- [velog](https://velog.io/@kimkh05/posts)
+[velog](https://velog.io/@kimkh05/posts)
 
----
 
-### 💬 Connect with me
+## 💬 Connect with me
 
 [![Blog](https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=rss&logoColor=white)](https://velog.io/@kimkh05/posts)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kimkh05)
