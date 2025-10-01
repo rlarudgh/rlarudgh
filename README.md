@@ -8,7 +8,7 @@
 
 **옐로시스 주식회사** 
 <br/>
-*Frontend & App Developer* (23.07.24 ~ ing)
+*Frontend & App Developer* (23.07.24 ~ 재직 중)
 
 - 사람용 소변 검사 기반 AI 건강관리 솔루션 [Cym702: For Human](http://yellosis.com/cym702_app_down.html) 앱 개발
 - 반려동물용 소변검사 기반 AI 건강관리 솔루션 [Cym702: For Pet](http://yellosis.com/cym702_pet_app_down.html) 앱 개발
