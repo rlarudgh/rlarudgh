@@ -36,7 +36,7 @@
 
 - **App**: React-Native, Flutter, Kotlin
 
-- **Server**: Nest.js, express, node.js, Prisma
+- **Server**: Nest.js, express, node.js, Prisma, Golang
 
 - **Etc.**: Python, Cpp, MySQL
 
