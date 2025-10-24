@@ -44,11 +44,13 @@
 
 ## 🎨 My Blog
 
-[velog](https://velog.io/@kimkh05/posts)
+- [Personal](https://hololog.vercel.app/)
+
+- [Velog](https://velog.io/@kimkh05/posts)
 
 
 ## 💬 Connect with me
 
-[![Blog](https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=rss&logoColor=white)](https://velog.io/@kimkh05/posts)
+[![Blog](https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=rss&logoColor=white)](https://hololog.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kimkh05)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kimkh05.dev@gmail.com)
