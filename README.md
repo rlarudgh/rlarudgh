@@ -12,9 +12,10 @@
 
 - 사람용 소변 검사 기반 AI 건강관리 솔루션 [Cym702: For Human](http://yellosis.com/cym702_app_down.html) 앱 개발
 - 반려동물용 소변검사 기반 AI 건강관리 솔루션 [Cym702: For Pet](http://yellosis.com/cym702_pet_app_down.html) 앱 개발
-- 헬스케어 [치타케어](https://play.google.com/store/apps/details?id=com.bredis.chitacare) 앱 개발
 - 옐로시스 [홈페이지](https://yellosis.com) 개발
-- 데이터 관리를 위한 backoffice 개발
+- 데이터 관리를 위한 backoffice 웹사이트 개발
+- 헬스케어 [치타케어](https://play.google.com/store/apps/details?id=com.bredis.chitacare) 앱 개발
+
 
 
 ## 🎓 Education
