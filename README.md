@@ -15,6 +15,7 @@
 - 옐로시스 [홈페이지](https://yellosis.com) 개발
 - 데이터 관리를 위한 backoffice 웹사이트 개발
 - 헬스케어 [치타케어](https://play.google.com/store/apps/details?id=com.bredis.chitacare) 앱 개발
+- 파트너 회사 제공을 위한 웹앱 개발
 
 
 
