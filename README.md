@@ -36,11 +36,11 @@
 
 - **Web(WebView)**: Next.js, React, Vue, TS, JS
 
-- **App**: React-Native, Flutter, Kotlin
+- **App**: Flutter, React-Native, Kotlin
 
 - **Server**: Nest.js, express, node.js, Prisma, Golang
 
-- **Etc.**: Python, Cpp, MySQL
+- **Etc.**: Python, Cpp, MySQL, Docker, AWS
 
 
 ## 🎨 My Blog
