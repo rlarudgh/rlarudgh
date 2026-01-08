@@ -49,6 +49,8 @@
 
 - [Velog](https://velog.io/@kimkh05/posts)
 
+- [Tistory](https://k0h5.tistory.com/)
+
 
 ## 💬 Connect with me
 
