@@ -1,46 +1,47 @@
 ### Hello 👋  My name is Kyeong-Ho Kim.
 
-프론트엔드와 크로스 플랫폼 개발하는 김경호입니다.
-
-사용자의 편의성을 우선적으로 생각하며 개발의 트렌드를 잘 따라가며 변화에 뒤쳐지지 않으려고 노력하고 있습니다.
+Hello 👋 I'm Kyeong-Ho Kim
+I am a Frontend & Cross-platform Developer dedicated to building user-centric applications. 
+I strive to stay ahead of the curve by embracing the latest development trends and continuously refining my craft.
 
 ## 💼 Career
 
-**옐로시스 주식회사** 
+**Yellosis Co.** 
 <br/>
-*Frontend & App Developer* (23.07.24 ~ 재직 중)
+*Frontend & App Developer* (2023.07.24 ~ Present)
 
-- 사람용 소변 검사 기반 AI 건강관리 솔루션 [Cym702: For Human](http://yellosis.com/cym702_app_down.html) 앱 개발
-- 반려동물용 소변검사 기반 AI 건강관리 솔루션 [Cym702: For Pet](http://yellosis.com/cym702_pet_app_down.html) 앱 개발
-- 옐로시스 [홈페이지](https://yellosis.com) 개발
-- 데이터 관리를 위한 backoffice 웹사이트 개발
-- 헬스케어 [치타케어](https://play.google.com/store/apps/details?id=com.bredis.chitacare) 앱 개발
-- 파트너 회사 제공을 위한 웹앱 개발
+- Developed [Cym702: For Human](http://yellosis.com/cym702_app_down.html), an AI-driven urine analysis health management solution.
+- Developed [Cym702: For Pet](http://yellosis.com/cym702_pet_app_down.html), an AI-driven health management app for companion animals.
+- Developed the official [Yellosis website](https://yellosis.com).
+- Developed a Back-office Web Application for efficient data management.
+- Developed [Chitacare](https://play.google.com/store/apps/details?id=com.bredis.chitacare), a dedicated healthcare application.
+- Developed various Web-App solutions for corporate partners.
+- Developing Yellosis Wellness webapp & Flutter hybrid app.
 
 
 
 ## 🎓 Education
 
-**대덕소프트웨어마이스터고등학교** 
+**Daedeok Software Meister High School** 
 <br/>
 소프트웨어개발과 졸업 (2021.03 ~ 2024.01)
 
 <br/>
 
-**서울사이버대학교** 
+**Seoul Cyber University** 
 <br/>
 컴퓨터공학과 전공 (2024.03 ~ 재학 중)
 
 
 ## 💻 Skills
 
-- **Web(WebView)**: Next.js, React, Vue, TS, JS
+- **Web(WebView)**: Next.js, React, Vue, TypeScript, JavaScript
 
-- **App**: Flutter, React-Native, Kotlin
+- **App**: Flutter, React-Native, Kotlin, Swift(basic)
 
-- **Server**: Nest.js, express, node.js, Prisma, Golang
+- **Server**: Nest.js, express, node.js, Prisma, Golang, Ruby(basic), Fast-Api
 
-- **Etc.**: Python, Cpp, MySQL, Docker, AWS
+- **Etc.**: Python, C++, MySQL, Docker, AWS, Java, sqlite3
 
 
 ## 🎨 My Blog
