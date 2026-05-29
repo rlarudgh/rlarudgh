@@ -8,7 +8,7 @@ I strive to stay ahead of the curve by embracing the latest development trends a
 
 **Yellosis Co.** 
 <br/>
-*Frontend & App Developer* (2023.07.24 ~ Present)
+*Frontend & App Developer* (2023.07.24 ~ 2026.06.15)
 
 - Developed [Cym702: For Human](http://yellosis.com/cym702_app_down.html), an AI-driven urine analysis health management solution.
 - Developed [Cym702: For Pet](http://yellosis.com/cym702_pet_app_down.html), an AI-driven health management app for companion animals.
@@ -17,7 +17,6 @@ I strive to stay ahead of the curve by embracing the latest development trends a
 - Developed [Chitacare](https://play.google.com/store/apps/details?id=com.bredis.chitacare), a dedicated healthcare application.
 - Developed various Web-App solutions for corporate partners.
 - Developing Yellosis Wellness webapp & Flutter hybrid app.
-
 
 
 ## 🎓 Education
