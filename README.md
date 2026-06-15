@@ -20,7 +20,7 @@ I strive to stay ahead of the curve by embracing the latest development trends a
 
 **Luvmom**
 <br/>
-*Full-stack Developer* (2026.06.08 ~ )
+*Full-stack(Web) Developer* (2026.06.08 ~ )
 
 - Development of an ERP System for a Postpartum Care Center
 
