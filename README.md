@@ -6,7 +6,7 @@ I strive to stay ahead of the curve by embracing the latest development trends a
 
 ## 💼 Career
 
-**Yellosis Co.** 
+**Yellosis** 
 <br/>
 *Frontend & App Developer* (2023.07.24 ~ 2026.06.15)
 
@@ -17,6 +17,12 @@ I strive to stay ahead of the curve by embracing the latest development trends a
 - Developed [Chitacare](https://play.google.com/store/apps/details?id=com.bredis.chitacare), a dedicated healthcare application.
 - Developed various Web-App solutions for corporate partners.
 - Developing Yellosis Wellness webapp & Flutter hybrid app.
+
+**Luvmom**
+<br/>
+*Full-stack Developer* (2026.06.08 ~ )
+
+- Development of an ERP System for a Postpartum Care Center
 
 
 ## 🎓 Education
@@ -34,13 +40,13 @@ I strive to stay ahead of the curve by embracing the latest development trends a
 
 ## 💻 Skills
 
-- **Web(WebView)**: Next.js, React, Vue, TypeScript, JavaScript
+- **Web(WebView)**: Next.js, React, Vue, TypeScript, JavaScript, Astro
 
 - **App**: Flutter, React-Native, Kotlin, Swift(basic)
 
 - **Server**: Nest.js, express, node.js, Prisma, Golang, Ruby(basic), Fast-Api
 
-- **Etc.**: Python, C++, MySQL, Docker, AWS, Java, sqlite3
+- **Etc.**: Python, C++, MySQL, Docker, AWS, Java, sqlite3, PostgreSQL
 
 
 ## 🎨 My Blog
@@ -50,6 +56,8 @@ I strive to stay ahead of the curve by embracing the latest development trends a
 - [Velog](https://velog.io/@kimkh05/posts)
 
 - [Tistory](https://k0h5.tistory.com/)
+
+- [Portfolio](https://kkh-log.pages.dev/) 
 
 
 ## 💬 Connect with me
