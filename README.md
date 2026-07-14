@@ -4,25 +4,6 @@ Hello 👋 I'm Kyeong-Ho Kim
 I am a Frontend & Cross-platform Developer dedicated to building user-centric applications. 
 I strive to stay ahead of the curve by embracing the latest development trends and continuously refining my craft.
 
-## 💼 Career
-
-**Yellosis** 
-<br/>
-*Frontend & App Developer* (2023.07.24 ~ 2026.06.15)
-
-- Developed [Cym702: For Human](http://yellosis.com/cym702_app_down.html), an AI-driven urine analysis health management solution.
-- Developed [Cym702: For Pet](http://yellosis.com/cym702_pet_app_down.html), an AI-driven health management app for companion animals.
-- Developed the official [Yellosis website](https://yellosis.com).
-- Developed a Back-office Web Application for efficient data management.
-- Developed [Chitacare](https://play.google.com/store/apps/details?id=com.bredis.chitacare), a dedicated healthcare application.
-- Developed various Web-App solutions for corporate partners.
-- Developing Yellosis Wellness webapp & Flutter hybrid app.
-
-**Luvmom**
-<br/>
-*Full-stack(Web) Developer* (2026.06.08 ~ )
-
-
 ## 🎓 Education
 
 **Daedeok Software Meister High School** 
