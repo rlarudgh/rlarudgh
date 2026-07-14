@@ -4,18 +4,6 @@ Hello 👋 I'm Kyeong-Ho Kim
 I am a Frontend & Cross-platform Developer dedicated to building user-centric applications. 
 I strive to stay ahead of the curve by embracing the latest development trends and continuously refining my craft.
 
-## 🎓 Education
-
-**Daedeok Software Meister High School** 
-<br/>
-소프트웨어개발과 졸업 (2021.03 ~ 2024.01)
-
-<br/>
-
-**Seoul Cyber University** 
-<br/>
-컴퓨터공학과 전공 (2024.03 ~ 재학 중)
-
 
 ## 💻 Skills
 
