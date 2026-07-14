@@ -1,7 +1,7 @@
 ### Hello 👋  My name is Kyeong-Ho Kim.
 
 Hello 👋 I'm Kyeong-Ho Kim
-I am a Frontend & Cross-platform Developer dedicated to building user-centric applications. 
+I am a Full-stack & cross-platform App Developer dedicated to building user-centric applications. 
 I strive to stay ahead of the curve by embracing the latest development trends and continuously refining my craft.
 
 
